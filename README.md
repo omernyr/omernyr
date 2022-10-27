@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<img src="https://giphy.com/embed/13HgwGsXF0aiGY" width="480" height="270" frameBorder="0" allowFullScreen />
-<p><a href="https://giphy.com/gifs/13HgwGsXF0aiGY">via GIPHY</a></p>
+<img src="[https://giphy.com/embed/13HgwGsXF0aiGY](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Flol-cat-code-gif-26743280&psig=AOvVaw2EC3Pq0l9ymtdlAGK2kOAb&ust=1666945903026000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOCyn8b___oCFQAAAAAdAAAAABAD)" width="480" height="270" frameBorder="0" allowFullScreen />
+
 
 - 📫 How to reach me **omernyr@outlook.com**
 
