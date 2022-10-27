@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<img src="https://media2.giphy.com/media/l3q2KRkOVYvi8WfU4/giphy.gif" align="left" />
+<img src="https://media2.giphy.com/media/l3q2KRkOVYvi8WfU4/giphy.gif" />
 
 
 - 📫 How to reach me **omernyr@outlook.com**
