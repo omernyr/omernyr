@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramming-gifs&psig=AOvVaw39lG7y8j_5lk6odhONBrqC&ust=1666946048338000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCODouIuAgPsCFQAAAAAdAAAAABAO">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramming-gifs&psig=AOvVaw39lG7y8j_5lk6odhONBrqC&ust=1666946048338000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCODouIuAgPsCFQAAAAAdAAAAABAO" align="right" />
 
 
 - 📫 How to reach me **omernyr@outlook.com**
