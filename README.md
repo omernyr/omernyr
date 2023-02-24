@@ -1,23 +1,77 @@
-<h1 align="center">Hi 👋, I'm Ömer</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<img src="https://media2.giphy.com/media/l3q2KRkOVYvi8WfU4/giphy.gif" />
+<h1 align="center">
+  Hi everyone, my name is Ömer
+</h1> 
+I have been dedicating at least four hours a day to self-learning Swift and improving my skills in iOS development. I am eager to join a work environment where I can collaborate and learn from others. I am confident that my dedication and passion for software development will allow me to contribute to a team and continue to grow as a developer.
+<br>
+<br>
+
+<div>
+    <h2 align=center> My Featured Applications </h2>
+</div>
+
+<div align=center>
+    <a href="https://github.com/asimcanyagiz/Scientific-Calculator"><img width=150 src="https://user-images.githubusercontent.com/89473605/216363927-194b7a93-ee9f-4eb5-a716-f66ee41a9c7b.png"></a>
+    <a href="https://github.com/asimcanyagiz/Flickgram"><img width=150 src="https://user-images.githubusercontent.com/89473605/216363227-108b90d4-f1df-494b-820c-d8dae190dd23.png"></a>
+    <a href="https://github.com/asimcanyagiz/WisdomAI-ChatGPT"><img width=150 src="https://user-images.githubusercontent.com/89473605/216363211-81c792f4-2ce0-459f-a5fc-e726aba0bcb0.png"></a>
+    <a href="https://github.com/asimcanyagiz/BazaarWay"><img width=150 src="https://user-images.githubusercontent.com/89473605/216363022-119a17aa-d2bb-4f08-ade2-bee9768b946b.png"></a>
+  <a href="https://github.com/asimcanyagiz/MeTunes"><img width=150 src="https://user-images.githubusercontent.com/89473605/216363220-5d0b82ad-bde3-47db-9206-404424cf1892.png"></a>
+</div>
+<h3 align="center">
+  <a href="https://github.com/asimcanyagiz/Scientific-Calculator">Calculator</a> |
+  <a href="https://github.com/asimcanyagiz/Flickgram">Flickgram</a> |
+  <a href="https://github.com/asimcanyagiz/WisdomAI-ChatGPT">WisdomAI</a> |
+  <a href="https://github.com/asimcanyagiz/BazaarWay">BazaarWay</a> |
+  <a href="https://github.com/asimcanyagiz/MeTunes">MeTunes</a>
+</h3>
 
 
-- 📫 How to reach me **omernyr@outlook.com**
+<br>
+<table>
+    <tr>
+        <td colspan="2">
+        <strong><samp>Stats:</samp></strong>
+        </td>
+        <td colspan="2">
+        <strong><samp>Streak:</samp></strong>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-stats.vercel.app/api?username=asimcanyagiz&count_private=true&hide_border=true&show_icons=true&theme=radical">
+        <img src="https://github-readme-stats.vercel.app/api?username=asimcanyagiz&count_private=true&hide_border=true&show_icons=true&theme=radical">
+        </a>
+        </td>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=asimcanyagiz&hide_border=true&theme=radical">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=asimcanyagiz&hide_border=true&theme=radical">
+        </a>
+        </td>
+    </tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/omernyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="omernyr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omernayir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omernayir" height="30" width="40" /></a>
-<a href="https://instagram.com/omerrnyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omerrnyr" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omernyr&show_icons=true&locale=en&layout=compact" alt="omernyr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omernyr&show_icons=true&locale=en" alt="omernyr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omernyr&" alt="omernyr" /></p>
+<div align=center>
+<table>
+    <tr>
+        <td colspan="8">
+        <strong><samp>Skills:</samp></strong>
+        </td>
+    </tr>
+        <tr>
+        <td colspan="8">
+        <img src="https://img.icons8.com/color/480/000000/swift.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/swiftui.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/xcode.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/git.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/firebase.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/figma.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/adobe-premiere-pro.png" width=50></a>     
+        <img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" width=50></a>     
+        <img src="https://img.icons8.com/color/480/000000/javascript.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/html-5.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/css3.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/bootstrap.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/python.png" width=50></a>
+        </td>
+    </tr>
+</table>
