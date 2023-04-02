@@ -65,8 +65,7 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
         <img src="https://img.icons8.com/color/480/000000/xcode.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/git.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/firebase.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/figma.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/adobe-premiere-pro.png" width=50></a>     
+        <img src="https://img.icons8.com/color/480/000000/figma.png" width=50></a>    
         <img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" width=50></a>     
         <img src="https://img.icons8.com/color/480/000000/javascript.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/html-5.png" width=50></a>
