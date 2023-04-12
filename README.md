@@ -11,7 +11,6 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
 </div>
 
 <div align=center>
-    <a href="https://github.com/asimcanyagiz/Scientific-Calculator"><img width=150 src="https://user-images.githubusercontent.com/89473605/216363927-194b7a93-ee9f-4eb5-a716-f66ee41a9c7b.png"></a>
     <a href="https://github.com/asimcanyagiz/Flickgram"><img width=150 src="https://user-images.githubusercontent.com/89473605/216363227-108b90d4-f1df-494b-820c-d8dae190dd23.png"></a>
     <a href="https://github.com/asimcanyagiz/WisdomAI-ChatGPT"><img width=150 src="https://user-images.githubusercontent.com/89473605/216363211-81c792f4-2ce0-459f-a5fc-e726aba0bcb0.png"></a>
     <a href="https://github.com/omernyr/EggTimerApp-master">
