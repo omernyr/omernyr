@@ -7,7 +7,7 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
 <br>
 
 <div>
-    <h2 align=center> My Featured Applications 🚀 </h2>
+    <h2 align=center>My Featured Applications 🚀 </h2>
 </div>
 
 <div align=center>
