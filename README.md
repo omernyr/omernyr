@@ -12,9 +12,6 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
 
 <div align=center>
     <a href="https://github.com/asimcanyagiz/Flickgram"><img width=150 src="https://user-images.githubusercontent.com/89473605/216363227-108b90d4-f1df-494b-820c-d8dae190dd23.png"></a>
-    <a href="https://github.com/omernyr/EggTimerApp-master">
-      <img width=150 src="https://user-images.githubusercontent.com/89137487/222907961-4711b318-7de8-48c9-9dbf-a443cb0411b8.png">
-  </a>
   <a href="https://github.com/omernyr/Netflix-Clone">
     <img width=150 src="https://user-images.githubusercontent.com/89137487/222133482-65d2e1dd-d73d-422a-ad67-402c15e3f69d.png">
     
