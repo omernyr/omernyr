@@ -27,6 +27,7 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
 <h3 align="center">
   <a href="https://github.com/omernyr/EggTimerApp-master">EggTimer</a> |
   <a href="https://github.com/omernyr/Netflix-Clone">Netflix Clone</a> |
+  <a href="https://github.com/omernyr/OmerTranslateApp">Netflix Clone</a> 
 </h3>
 
 <br>
