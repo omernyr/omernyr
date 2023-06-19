@@ -11,9 +11,11 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
 </div>
 
 <div align=center>
-    <a href="https://github.com/omernyr/NineWest"><img width=200 src="https://userimages.githubusercontent.com/89473605/216363227108b90d4f1df494b820c-d8dae190dd23.png">
+    <a href="https://github.com/omernyr/NineWest">
+      <img width=200 src="https://userimages.githubusercontent.com/89473605/216363227108b90d4f1df494b820c-d8dae190dd23.png">
     </a>
-    <a href="https://github.com/omernyr/OmerTranslateApp"><img width="200" alt="Screenshot 2023-06-19 at 12 44 09" src="https://github.com/omernyr/omernyr/assets/89137487/08730c4f-06b6-4ace-837c-e5968ddcee04">
+    <a href="https://github.com/omernyr/OmerTranslateApp">
+      <img width="200" alt="Screenshot 2023-06-19 at 12 44 09" src="https://github.com/omernyr/omernyr/assets/89137487/08730c4f-06b6-4ace-837c-e5968ddcee04">
     </a>
 
 
