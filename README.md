@@ -18,7 +18,7 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
       <img width=150 src="https://user-images.githubusercontent.com/89137487/222133482-65d2e1dd-d73d-422a-ad67-402c15e3f69d.png">
     </a>
     <a href="https://github.com/omernyr/OmerTranslateApp">
-      <img width="200" alt="Screenshot 2023-06-19 at 12 44 09" src="https://user-images.githubusercontent.com/89137487/08730c4f-06b6-4ace-837c-e5968ddcee04">
+      <img width="200" alt="Screenshot 2023-06-19 at 12 44 09" src="https://github.com/omernyr/omernyr/assets/89137487/08730c4f-06b6-4ace-837c-e5968ddcee04">
     </a>
 
 
